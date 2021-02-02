@@ -1,10 +1,8 @@
-# PAPA React JS Resume Starter Pack and Digital Portfolio
+# Moslem React.js Resume
 
-![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
+![Moslem React.js Resume](resume-screenshot.jpg?raw=true "Moslem React.js Resume ")
 
-### <a href="https://resume-portfolio-starter-pack.herokuapp.com">LIVE DEMO</a>
-
-## Resume Starter Pack Description
+## Resume Description
 
 This portfolio starter pack is made using React. The data on the portfolio is directly linked to a JSON file. Any changes to the portfolio can be made in the JSON file. The changes will then be reflected on to the portfolio. This allows you to customize your own personal portfolio that can be used for applying to jobs or other personal uses. If you need to use this portfolio for your own personal website then follow the steps below:
 
