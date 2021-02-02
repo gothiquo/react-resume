@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name": "Moslem Cherif",
+    "occupation": "Developer in SAP",
+    "description": "I eat, sleep, train and code !",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! My name's Moslem and I am working as a Full Stack developer, my main skill is PHP and I have also great skills with HTML5, CSS3 and JS. I am here to change the word and make your life better !",
+    "contactmessage": "Get in touch with me to learn me about me!",
+    "email": "moslem.cherif.de@gmail.com",
+    "phone": "+491745663772",
+    "address": {
+      "street": "Alex-Möller-Strße",
+      "city": "Hockenheim",
+      "state": "Baden Württemberg",
+      "zip": "68766"
+    },
+    "website": "https://gothiquo.github.io",
+    "resumedownload": "http://gothiquo.github.io",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/moslemc",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/moslemcherif",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/gothiquo",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "ESPRIT - Tunisia",
+        "degree": "Master's Degree, Software Engineering",
+        "graduated": "October 2015",
+        "description": "Graduated with First Class Honours"
+      },
+      {
+        "school": "ISIGK - Tunisia",
+        "degree": "Bachelor's Degree, Computer Sciences",
+        "graduated": "July 2012",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "SAP",
+        "title": "Developer",
+        "years": "Mar 2020 - Present"
+      },
+      {
+        "company": "Intellishop AG",
+        "title": "Full Stack Developer",
+        "years": "Apr 2019 - Feb 2020"
+      },
+      {
+        "company": "Ipo PrämienServices GmbH",
+        "title": "Full Stack Developer",
+        "years": "Aug 2017 - Mar 2019"
+      },
+      {
+        "company": "Australian Entertainment",
+        "title": "Full Stack Developer",
+        "years": "Dec 2016 - Jul 2017"
+      },
+      {
+        "company": "Anypli",
+        "title": "Full Stack Developer",
+        "years": "Nov 2015 - Nov 2016"
+      }
+    ],
+    "skills": [
+      {
+        "name": "PHP",
+        "level": "100%"
+      },
+      {
+        "name": "Laravel",
+        "level": "100%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "CSS3",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "Docker",
+        "level": "70%"
+      },
+      {
+        "name": "React.JS",
+        "level": "50%"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Moslem is absolutely excellent, his depth of knowledge & his coding way really meant a lot to us... I would definitely recommend",
+        "user": "Alex Beethoven"
+      },
+      {
+        "text": "Working with Moslem has been AWESOME, he makes coding funny and great!",
+        "user": "Danny Liever"
+      }
+    ]
+  }
+}
