@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Moslem Cherif",
-    "occupation": "Developer in SAP",
+    "occupation": "Developer & Business Processes Consultant in SAP",
     "description": "I eat, sleep, train and code !",
     "image": "profilepic.jpg",
-    "bio": "Hi there! My name's Moslem and I am working as a Full Stack developer, my main skill is PHP and I have also great skills with HTML5, CSS3 and JS. I am here to change the word and make your life better !",
+    "bio": "Hi there! My name's Moslem and I am working as a Full Stack developer, my main skill is JAVA and I have also great skills with HTML5, CSS3 and JS. I am here to change the word and make your life better !",
     "contactmessage": "Get in touch with me to learn me about me!",
     "email": "moslem.cherif.de@gmail.com",
     "phone": "+491745663772",
@@ -53,7 +53,7 @@
     "work": [
       {
         "company": "SAP",
-        "title": "Developer",
+        "title": "Developer & Business Processes Consultant",
         "years": "Mar 2020 - Present"
       },
       {
@@ -80,6 +80,14 @@
     "skills": [
       {
         "name": "PHP",
+        "level": "100%"
+      },
+      {
+        "name": "JAVA",
+        "level": "100%"
+      },
+      {
+        "name": "Spring",
         "level": "100%"
       },
       {
